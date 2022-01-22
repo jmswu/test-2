@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	std::printf("Hello world\n");
+	std::printf("Hello world new\n");
 	return 0;
 }
